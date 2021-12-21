@@ -1,11 +1,11 @@
-# Hello Rails Back-End
-> This is a Rails API Back-End app that returns a random greeting from PostgreSQL database table. 
-
-Link to [React Front End](https://github.com/toliboff/hello-react-front-end/pull/1)
+# Hello Rails API
+> This is a React-Rails app that displays the random greeting using API. 
 
 # Built With
 
 - Ruby on Rails
+- React
+- Redux
 - PostgreSQL
 
 ## Getting Started
@@ -30,20 +30,23 @@ To get a local copy up and running follow these simple example steps.
 
 Run `rails s` to run the server and open `localhost:3000` in browser
 
-API endpoint: `/api/greetings`
+### Test
+
+Run `bundle exec rspec` to run tests
 ## Author
 
-👤 **Tolib**
+👤 **Anderson Caleb**
 
-- GitHub: [@toliboff](https://github.com/toliboff)
-- Twitter: [@tolib_tolibov](https://twitter.com/tolib_tolibov)
-- LinkedIn: [Tolibjon Tolibov](https://linkedin.com/in/tolibjon-tolibov)
+- GitHub: [@Andersonlebon](https://github.com/andersonlebon)
+- Twitter: [@BuyananaCaleb](https://twitter.com/BuyananaCaleb)
+- LinkedIn: [@Anderson Caleb](https://www.linkedin.com/in/anderson-caleb-915343209/)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/toliboff/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/toliboff/hello-rails-react/issues).
 
 ## Show your support
 
