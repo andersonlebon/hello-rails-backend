@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 - Run  `rails db:migrate` to create a migrations
 - Run  `rails db:seed` to add data to the database
 
-### Run
+## Run
 
 Run `rails s` to run the server and open `localhost:3000` in browser
 
